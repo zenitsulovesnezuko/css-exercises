@@ -1,0 +1,19 @@
+.container .pink-bk {
+  background-color: rgb(239, 155, 169);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#bold-blue {
+  color: blue;
+  font-size: 36px;
+}
+
+.pink-bk-lg {
+  background-color: rgb(239, 155, 169);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font: size 24px;
+}
+#green-bk {
+  background-color: rgb(150, 233, 150);
+  font-size: 24px;
+  font-weight: bold;
+}
