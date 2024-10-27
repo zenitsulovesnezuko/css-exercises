@@ -24,11 +24,16 @@ body {
   width: 48px;
   height: 48px;
   display: flex;
-  justify-content: center;
   align-items: center;
-  font-size: 12px;
+  justify-content: center;
+  color: whitesmoke;
+}
+
+.logo {
+  color: rebeccapurple;
+  font-size: 32px;
   font-weight: 900;
-  color: white;
+  font-style: italic;
 }
 
 button {
